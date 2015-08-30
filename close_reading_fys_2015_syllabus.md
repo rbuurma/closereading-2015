@@ -1,5 +1,5 @@
 # English 009Z: Close Reading and Its Discontents (FYS)
-- - -
+
 + instructor: Rachel Sagner Buurma
 + semester: Fall 2015
 + time: MWF 11:30-12:20
