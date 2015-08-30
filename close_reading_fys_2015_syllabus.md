@@ -1,0 +1,275 @@
+# English 009Z: Close Reading and Its Discontents (FYS)
+- - -
++ instructor: Rachel Sagner Buurma
++ semester: Fall 2015
++ time: MWF 11:30-12:20
++ location: LPAC 201
++ office: LPAC 302
++ office hours: M 1- 4 and by appointment
++ email: rbuurma1@swarthmore.edu
+
+- - -
+
+"Close reading" is something we do almost every day in the English literature classroom; it seems so natural that its protocols and practices are sometimes said to structure the way we read the world. But what does it really mean to get close to a text? At what might it mean for a reader or critic to reject – as many have – the idea of close reading? What might we learn – about literature and about ourselves - from looking at the history of reading, close and otherwise? In this class, we will study the ways various kinds of readers – from New Critics like Cleanth Brooks to cultural theorists like Edward Said to deconstructionists like Derrida and Paul De Man – have turned their attention to texts as different Donne's "The Canonization," car advertisements from the 1950s , and Jane Austen's Mansfield Park. Students will keep a close reading journal, which will include experiments in various types of close and distant reading, and will write and revise three papers.
+
+---
+
+## Introduction: Literature and Its Histories
+
+### Week I
+
+#### August 31
++ Welcome and Introduction
+
+#### September 2
++Richards, *Practical Criticism* preparation: poems: I, II, and III
++Writing assignment: close read one of the Practical Criticism poems
+
+#### September 4
++ Practical Criticism, “Introduction,” “Part I: Documentation of Poems I, II, and III
++ Practical Criticism, Part III, Chapter I: “The Four Kinds of Meaning”
++ The Well Wrought Urn preparation: Donne, "The Canonization"
++ Sign up for introductory meetings with me (beginning Sept 15)
++ assignment: close read “The Canonization” with Richards in mind
++ Paper #1 assigned
+
+## Part I: FORMALISM: INTRINSIC: CLOSE READING
+
+### Week II
+
+#### September 7
++ Brooks, *The Well Wrought Urn*, "The Language of Paradox" (3-21)
+
+#### September 9
++ *The Well Wrought Urn*, continued
+
+
+#### September 11
++ *The Verbal Icon* preparation: Donne, “A Valediction Forbidding Mourning,” Eliot, “The Love Song of J. Alfred Prufrock"
++ assignment: your close reading of some aspect of “Prufrock,” keeping Brooks in mind
+
+### Week III
+
+#### September 14
++ Wimsatt and Beardsley, "The Intentional Fallacy" from The Verbal Icon
+
+#### September 16
++ J.L. Lowes, from *The Road to Xanadu*
++ one paragraph giving the key idea of your paper
+
+#### September 18
++ *7 Types of Ambiguity preparation*: Eliot, “A Game of Chess”
++ assignment: close read a few lines from “A Game of Chess”
+
+### Week IV
+
+#### September 21
++ Empson,  *7 Types of Ambiguity*, “Chapter 1” (pp.1-21 only) “Chapter II” ( pages 48-56, 68-88)
+
+#### September 23
++ *7 Types of Ambiguity*, continued; De Man, “Form and Intent in the American New Criticism”
+
+#### September 25
++ De Man continued
++ paper 1 due by midnight
++ sign up for meetings with me
+
+### Week V
+
+#### September 28
++ Terry Eagleton, “Structuralism and Semiotics,” “Post-Structuralism” from Literary Theory: An Introduction (ebook via Tripod)
++take notes and bring a copy to class to turn in
+
+#### September 30
++ J. Hillis Miller, “Critic as Host”
+
+#### October 2
++ Mythologies preparation: selected images
++ assignment: close read an image from *Mythologies*
+
+### Week VI
+
+#### October 5
++ Barthes, *Mythologies*, p. 9-12, 15-28, 34-38, 41-46, 50-57, 74-90, 97-102, 109-159
+
+#### October 7
++ *Mythologies*, continued
+
+#### October 9
++ *Mimesis* preparation: pages 1-48 of To the Lighthouse
++ handout based on Dorrit Cohn, “Narrated Monologue,” *Transparent Minds*
++ assignment: use the OED to research a word from To the Lighthouse and post summary to Known
++ Paper #2 assigned
++ Paper #1 revision due by midnight
+
+### Week VII
++ October break – no class this week - read *Mansfield Park*
+
+## Part II: HISTORICISM: EXTRINSIC: RESEARCH
+
+### Week VIII
+
+#### October 19
++ Auerbach, *Mimesis*, “The Brown Stocking”
+
+#### October 21
++ *Mimesis*, “Epilogue”
++ Arthur Marotti, from *John Donne, Coterie Poet*
+
+#### October 23
++ preparation: Mansfield Park
++ assignment: historical detail I (from Mansfield Park)
+
+### Week IX
+
+#### October 26
++ Edward Said, Culture and Imperialism, “Jane Austen and Empire”
+
+#### October 28 (this week subject to change)
++ Marilyn Butler, "Mansfield Park: Ideology and Execution”
++ Claudia Johnson, "Mansfield Park: Confusions of Guilt and Revolutions of Mind"
+
+#### October 30
++ Butler and Jonson, continued
++ assignment: historical detail II
+
+### Week X
+
+#### November 2
++ Moretti, “Austen’s Britain,” *Atlas of the European Novel*
++ preparation: *Jane Austen & the Secret of Style*
+
+#### November 4
++ NO CLASS: work on assignment: historical detail III
+
+#### November 6
++ NO CLASS
++ Paper #2 due by midnight; sign up for meetings with me starting Nov 10
++ assignment: historical detail III
+
+### Week XI
+
+#### November 9
++ D. A. Miller, *Jane Austen and the Secret of Style*  (tentative)
+
+#### November 11
++ *Jane Austen and the Secret of Style*
+
+#### November 13
++ James, “The Beast in the Jungle,” “The Real Thing”
++ assignment; close read a passage from “The Beast in the Jungle” or “The Real Thing” keeping D.A. Miller in mind
+
+### Week XII
+
+#### November 16
++ Preparation: The Political Unconscious
++ Headnote on PU from Norton Anthology of Theory and Criticism
+
+#### November 18
++ Fredric Jameson, from “On Interpretation,” The Political Unconscious
+
+#### November 20
++ Jameson, continued
++ Paper #2 final copy due by midnight SUNDAY, Nov 23
++ Final presentation assigned; optional meetings with me
+
+## Part III: RECONCILIATIONS AND REFUSALS
+
+### Week XIII
+
+#### November 23
++ Final essay exam study guide and presentation assigned
++ Eve Sedgwick, Touching Feeling, “Paranoid and Reparative Reading”
++ Franco Moretti, from *Maps, Graphs, and Trees* (subject to change)
+
+#### November 25
++ no class - paper meetings
+
+#### November 27
++ no class - Thanksgiving break
+
+### Week XIV
+
+#### November 30
++ Edith Rickert, from *A New Method of Literary Study*
+
+#### December 2
++Presentations
+
+#### December 4
++ Presentations
+
+Week XV
+
+#### December 7
++ remaining presentations and seminar dinner, 5-8 pm, Professor Buurma’s house
+
+### December  14
++ study guide due by midnight
+
+### December 16
++ paper #3 due by midnight
+
+### December 18
++ take-home final due
+
+
+### Course texts available in the bookstore:
+
++ Jane Austen. Mansfield Park. Toronto: Broadview Press, 2001.  ISBN-13: 978-1551110981
++ Roland Barthes, Mythologies. Hill and Wang. ISBN: 0374521506
++ D.A. Miller, Jane Austen and the Secret of Style. Princeton. ISBN: 978-0691123875
+
+You are also welcome to buy these books online or at a different store. If you do this be aware that you need to have your own copy of the specific edition of each of the books listed above; make sure that the ISBN numbers above match the ISBN number on the books you order.
+
+All other course texts will be available in our Dropbox. I will send you a Dropbox invitation after class today.  *Please be sure to print out assigned electronic texts and bring them to class with you*.
+
+### Reading assignments
+The reading load for this class is fairly modest because I want you to have time to read certain texts (the poems in particular) more than once and to be able to devote time to your writing. The major exception to this low-reading-load rule will be our weeks on *Mansfield Park*. Do try to get started on that novel ahead of time, or plan to read it over fall break.
+
+### Short writing assignments
+
+Most weeks you will write a very short response (about 250 words) to some question related to the reading. They offer you an opportunity to experiment with various forms of reading, as well as to work on developing your own reading style and learn important research skills.  They are designed so that each set of entries feeds into one of the longer papers; this means that you are welcome and encouraged to draw on your entries as you write the more formal papers.  Each assignment must be posted by midnight the day before the class for which it is assigned. These short pieces of writing will not be graded individually, though they will be evaluated as part of your class participation grade. You are welcome to meet with me at any time to check in about your work on these posts.
+
+http://closereading2015.rachelsagnerbuurma.org/
+
+We will use this Known site as our informal blogging/link-and-image-sharing platform. You will be invited to create an account shortly. We will post our responses to exercises and other occasional short response assignments.  You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc to the Known as they occur to you.
+
+*Remember to keep your own copy of anything you post to Known.*
+
+When you post, think about adding hashtags. Assignments will have required hashtags, but you can also add your own. For example, your post for assignment 1 should include the tags #Richards  #Assignment1 - but you may choose to add other generally relevant tages (#list) or tags that are particular to your findings and interpretation (#capitalism #bears etc).
+
+Known's privacy settings allow you to share your posts with "members only" (in this case, the other members of the class and anyone else for whom I create a guest account) or to make them "public." This is up to you; you may choose to share some posts publicly and not others.
+
+For more on Known, visit [their website](https://withknown.com/) and read [this piece on Known](http://audreywatters.com/2015/04/29/reclaim-known/) by Audrey Watters. Note that you can have your own Known account for free. You can also have your own [Reclaim Hosting](reclaimhosting.com) account (from which you can host and customize your own instance of Known at your own url, among other exciting things) for cheap.
+
+Known supports [Markdown](http://daringfireball.net/projects/markdown/), a lightweight plain text formatting syntax designed to be read by both people and machines. Documents formatted in Markdown convert easily to html, pdf and other formats (Word, etc).  I do not require that you use Markdown, but if you are even minimally interesting in writing for the web in any way (and who isn't?), I strongly suggest that you spend 30 minutes on the basics and then use Markdown to format your Known posts. Very quick basics are [here](http://daringfireball.net/projects/markdown/); for more comprehensive info look at [Commonmark](http://spec.commonmark.org/0.22/), an effort to better specify and document Markdown.
+
+### Papers
+These two different essay assignments (of two drafts each) will be discussed in detail in class. In addition to the work on writing and revision our class and our class will provide, you are encouraged to visit the Writing Center (more information at http://www.swarthmore.edu/x9317.xml) for additional help.
+
+### Policies and Advice
+
+### Grading
+25% class participation (includes possible quizzes and blog short writing assignments)
+45% 2 short essays (paper 1 = 20%, paper 2 = 25%)
+20% final presentation and study guide
+10% short take-home final
+
+### Attendance and due dates
+Because this is a discussion-oriented class, attendance is essential. Missing more than three class sessions will result in a lowered grade (1/3 of a grade per additional unexcused absence) unless you have a valid excuse confirmed by your advisor or class dean. (Remember to reserve some of your absences for the possibility of missing class due to routine illness like the flu or a bad cold.) Late papers will incur a penalty (1/3 of a grade per class day late) unless you have a similarly valid excuse. So if a paper is due on Friday midnight and you don’t turn it in until Wednesday, that’s 2/3 of a grade late, making an actual B+ paper, for example, into a recorded B-.
+
+### Laptops and phones
+This policy is constantly in flux for me (and we may revise it over the course of the semester), but at the start of this class I am going to ask that you do not use a laptop, tablet, or phone for note-taking (or anything else) during class time. I’ll also ask that you silence and put away your mobile phone for the duration of class. Disability accommodations requiring the use of a computer are not covered by this policy.
+
+### Plagiarism
+Plagiarism is a very serious offense. It includes both the direct copying of the words of another person without crediting him or her and paraphrasing the ideas of another person without giving credit. See the English department’s guidelines on how to properly cite sources here:
+http://www.swarthmore.edu/x10027.xml
+If you have any questions about how to properly cite another person’s work, please do not hesitate to ask me.
+
+### Accommodations for disability
+I want to work to make sure that everyone in this class has the access to the materials, resources, and support they need in order to learn most effectively. You are always free to talk to me about your own situation.  A key Swarthmore resource in this area is the Office of Student Disability Services. Their accommodations policy is here: If you believe that you need accommodations for a disability, please contact Leslie Hempling in the Office of Student Disability Services (Parrish 113) or email lhempli1@swarthmore.edu to arrange an appointment to discuss your needs. As appropriate, she will issue students with documented disabilities a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact her as soon as possible. For details about the accommodations process, visit the Student Disability Service Website at http://www.swarthmore.edu/academic-advising-support/welcome-to-student-disability-service.  You are also welcome to contact me [the faculty member] privately to discuss your academic needs. However, all disability-related accommodations must be arranged through the Office of Student Disability Services.
+
+The most up-to-date copy of our syllabus will be available on github: https://github.com/rbuurma/closereading2015
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
