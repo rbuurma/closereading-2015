@@ -136,28 +136,27 @@
 ### Week X
 
 #### November 2
-+ Moretti, “Austen’s Britain,” *Atlas of the European Novel*
-+ preparation: *Jane Austen & the Secret of Style*
++ historical research overview and discussion
 
 #### November 4
 + NO CLASS: work on assignment: historical detail III
 
 #### November 6
 + NO CLASS
-+ Paper #2 due by midnight; sign up for meetings with me starting Nov 10
-+ assignment: historical detail III
++ Paper #2 due by midnight Sunday, Nov 8; sign up for meetings with me starting Nov 10
 
 ### Week XI
 
 #### November 9
-+ D. A. Miller, *Jane Austen and the Secret of Style*  (tentative)
++ Moretti, “Austen’s Britain,” *Atlas of the European Novel*
++ preparation: *Jane Austen & the Secret of Style*
 
 #### November 11
-+ *Jane Austen and the Secret of Style*
++ *Jane Austen and the Secret of Style*, ch 1 + 3
 
 #### November 13
-+ James, “The Beast in the Jungle,” “The Real Thing”
-+ assignment; close read a passage from “The Beast in the Jungle” or “The Real Thing” keeping D.A. Miller in mind
++ James, “The Beast in the Jungle"
++ assignment; close read a passage from “The Beast in the Jungle” keeping D.A. Miller in mind
 
 ### Week XII
 
