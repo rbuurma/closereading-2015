@@ -139,7 +139,7 @@
 + historical research overview and discussion
 
 #### November 4
-+ NO CLASS: work on assignment: historical detail III
++ NO CLASS: work on paper
 
 #### November 6
 + NO CLASS
