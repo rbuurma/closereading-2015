@@ -152,24 +152,24 @@
 + preparation: *Jane Austen & the Secret of Style*
 
 #### November 11
-+ *Jane Austen and the Secret of Style*, ch 1 + 3
++ *Jane Austen and the Secret of Style*, ch 1
 
 #### November 13
-+ James, “The Beast in the Jungle"
-+ assignment; close read a passage from “The Beast in the Jungle” keeping D.A. Miller in mind
++ *Jane Austen and the Secret of Style*, ch 3
 
 ### Week XII
 
 #### November 16
-+ Preparation: The Political Unconscious
-+ Headnote on PU from Norton Anthology of Theory and Criticism
++ James, “The Beast in the Jungle"
++ assignment; close read a passage from “The Beast in the Jungle” keeping D.A. Miller in mind
 
 #### November 18
++ Preparation: The Political Unconscious
++ Headnote on PU from Norton Anthology of Theory and Criticism
 + Fredric Jameson, from “On Interpretation,” The Political Unconscious
 
 #### November 20
 + Jameson, continued
-+ Paper #2 final copy due by midnight SUNDAY, Nov 23
 + Final presentation assigned; optional meetings with me
 
 ## Part III: RECONCILIATIONS AND REFUSALS
@@ -179,7 +179,7 @@
 #### November 23
 + Final essay exam study guide and presentation assigned
 + Eve Sedgwick, Touching Feeling, “Paranoid and Reparative Reading”
-+ Franco Moretti, from *Maps, Graphs, and Trees* (subject to change)
++ Paper #2 final copy due by midnight WEDNESDAY, Nov 26
 
 #### November 25
 + no class - paper meetings
@@ -193,10 +193,10 @@
 + Edith Rickert, from *A New Method of Literary Study*
 
 #### December 2
-+ Presentations
++ Franco Moretti, from *Maps, Graphs, and Trees* (subject to change)
 
 #### December 4
-+ Presentations
++ Lighting talk presentations
 
 Week XV
 
@@ -207,7 +207,6 @@ Week XV
 + study guide due by midnight
 
 ### December 16
-+ paper #3 due by midnight
 
 ### December 18
 + take-home final due
