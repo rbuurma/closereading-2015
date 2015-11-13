@@ -160,8 +160,8 @@
 ### Week XII
 
 #### November 16
-+ James, “The Beast in the Jungle"
-+ assignment; close read a passage from “The Beast in the Jungle” keeping D.A. Miller in mind
++ James, “The Figure in the Carpet"
++ assignment; close read a passage from “The Figure in the Carpet” keeping D.A. Miller in mind
 
 #### November 18
 + Preparation: The Political Unconscious
