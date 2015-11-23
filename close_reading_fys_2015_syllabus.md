@@ -178,6 +178,7 @@
 
 #### November 23
 + Final essay exam study guide and presentation assigned
++ Franco Moretti, from *Maps, Graphs, and Trees* and
 + Eve Sedgwick, Touching Feeling, “Paranoid and Reparative Reading”
 + Paper #2 final copy due by midnight WEDNESDAY, Nov 26
 
@@ -190,10 +191,11 @@
 ### Week XIV
 
 #### November 30
-+ Edith Rickert, from *A New Method of Literary Study*
++ Franco Moretti, from *Maps, Graphs, and Trees* and
++ Eve Sedgwick, Touching Feeling, “Paranoid and Reparative Reading”
 
 #### December 2
-+ Franco Moretti, from *Maps, Graphs, and Trees* (subject to change)
++ Edith Rickert, from *A New Method of Literary Study*
 
 #### December 4
 + Lighting talk presentations
